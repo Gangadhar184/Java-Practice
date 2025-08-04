@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/loops/A. 1 to N/A_1_to_N.iml" filepath="$PROJECT_DIR$/loops/A. 1 to N/A_1_to_N.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/A. Create A New String/A_Create_A_New_String.iml" filepath="$PROJECT_DIR$/Strings/A. Create A New String/A_Create_A_New_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/div-3-contest/A. Only One Digit/A_Only_One_Digit.iml" filepath="$PROJECT_DIR$/div-3-contest/A. Only One Digit/A_Only_One_Digit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/A. Say Hello With C++/A_Say_Hello_With_C.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/A. Say Hello With C++/A_Say_Hello_With_C.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays-contest/A. Square or rectangle/A_Square_or_rectangle.iml" filepath="$PROJECT_DIR$/arrays-contest/A. Square or rectangle/A_Square_or_rectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/A. Summation/A_Summation.iml" filepath="$PROJECT_DIR$/arrays/A. Summation/A_Summation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loop-contest/A. Timon and Pumbaa/A_Timon_and_Pumbaa.iml" filepath="$PROJECT_DIR$/loop-contest/A. Timon and Pumbaa/A_Timon_and_Pumbaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contest-1/A. Winter Sale/A_Winter_Sale.iml" filepath="$PROJECT_DIR$/contest-1/A. Winter Sale/A_Winter_Sale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/B. Basic Data Types/B_Basic_Data_Types.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/B. Basic Data Types/B_Basic_Data_Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loop-contest/B. Drawing 'X'/B_Drawing_X.iml" filepath="$PROJECT_DIR$/loop-contest/B. Drawing 'X'/B_Drawing_X.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/B. Even Numbers/B_Even_Numbers.iml" filepath="$PROJECT_DIR$/loops/B. Even Numbers/B_Even_Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/B. Let's use Getline/B_Lets_use_Getline.iml" filepath="$PROJECT_DIR$/Strings/B. Let's use Getline/B_Lets_use_Getline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contest-1/B. Memo and Momo/B_Memo_and_Momo.iml" filepath="$PROJECT_DIR$/contest-1/B. Memo and Momo/B_Memo_and_Momo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/div-3-contest/B. No Casino in the Mountains/B_No_Casino_in_the_Mountains.iml" filepath="$PROJECT_DIR$/div-3-contest/B. No Casino in the Mountains/B_No_Casino_in_the_Mountains.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays-contest/B. Reversing/B_Reversing.iml" filepath="$PROJECT_DIR$/arrays-contest/B. Reversing/B_Reversing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/B. Searching/B_Searching.iml" filepath="$PROJECT_DIR$/arrays/B. Searching/B_Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays-contest/C. Choose Elements/C_Choose_Elements.iml" filepath="$PROJECT_DIR$/arrays-contest/C. Choose Elements/C_Choose_Elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/C. Compare/C_Compare.iml" filepath="$PROJECT_DIR$/Strings/C. Compare/C_Compare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/C. Even Odd Positive and Negative/C_Even_Odd_Positive_and_Negative.iml" filepath="$PROJECT_DIR$/loops/C. Even Odd Positive and Negative/C_Even_Odd_Positive_and_Negative.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loop-contest/C. Finding Minimums/C_Finding_Minimums.iml" filepath="$PROJECT_DIR$/loop-contest/C. Finding Minimums/C_Finding_Minimums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/div-3-contest/C. I Will Definitely Make It/C_I_Will_Definitely_Make_It.iml" filepath="$PROJECT_DIR$/div-3-contest/C. I Will Definitely Make It/C_I_Will_Definitely_Make_It.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contest-1/C. Next Alphabet/C_Next_Alphabet.iml" filepath="$PROJECT_DIR$/contest-1/C. Next Alphabet/C_Next_Alphabet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/C. Replacement/C_Replacement.iml" filepath="$PROJECT_DIR$/arrays/C. Replacement/C_Replacement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/C. Simple Calculator/C_Simple_Calculator.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/C. Simple Calculator/C_Simple_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contest-1/D. Ali Baba and Puzzles/D_Ali_Baba_and_Puzzles.iml" filepath="$PROJECT_DIR$/contest-1/D. Ali Baba and Puzzles/D_Ali_Baba_and_Puzzles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays-contest/D. Counting Elements/D_Counting_Elements.iml" filepath="$PROJECT_DIR$/arrays-contest/D. Counting Elements/D_Counting_Elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/D. Fixed Password/D_Fixed_Password.iml" filepath="$PROJECT_DIR$/loops/D. Fixed Password/D_Fixed_Password.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/D. Positions in array/D_Positions_in_array.iml" filepath="$PROJECT_DIR$/arrays/D. Positions in array/D_Positions_in_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loop-contest/D. Range Sum/D_Range_Sum.iml" filepath="$PROJECT_DIR$/loop-contest/D. Range Sum/D_Range_Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/D. Strings/D_Strings.iml" filepath="$PROJECT_DIR$/Strings/D. Strings/D_Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/div-3-contest/D. This Is the Last Time/D_This_Is_the_Last_Time.iml" filepath="$PROJECT_DIR$/div-3-contest/D. This Is the Last Time/D_This_Is_the_Last_Time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/D.  Difference/D__Difference.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/D.  Difference/D__Difference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays-contest/E. Alternating Array/E_Alternating_Array.iml" filepath="$PROJECT_DIR$/arrays-contest/E. Alternating Array/E_Alternating_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/E. Area of a Circle/E_Area_of_a_Circle.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/E. Area of a Circle/E_Area_of_a_Circle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/E. Count/E_Count.iml" filepath="$PROJECT_DIR$/Strings/E. Count/E_Count.iml" />
+      <module fileurl="file://$PROJECT_DIR$/div-3-contest/E. G-C-D Unlucky!/E_G_C_D_Unlucky.iml" filepath="$PROJECT_DIR$/div-3-contest/E. G-C-D Unlucky!/E_G_C_D_Unlucky.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loop-contest/E. Hady Rides the Train/E_Hady_Rides_the_Train.iml" filepath="$PROJECT_DIR$/loop-contest/E. Hady Rides the Train/E_Hady_Rides_the_Train.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contest-1/E. Interval Sweep/E_Interval_Sweep.iml" filepath="$PROJECT_DIR$/contest-1/E. Interval Sweep/E_Interval_Sweep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/E. Lowest Number/E_Lowest_Number.iml" filepath="$PROJECT_DIR$/arrays/E. Lowest Number/E_Lowest_Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/E. Max/E_Max.iml" filepath="$PROJECT_DIR$/loops/E. Max/E_Max.iml" />
+      <module fileurl="file://$PROJECT_DIR$/div-3-contest/F. 1-1-1 Free Tree!/F_1_1_1_Free_Tree.iml" filepath="$PROJECT_DIR$/div-3-contest/F. 1-1-1 Free Tree!/F_1_1_1_Free_Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contest-1/F. Adding Bits/F_Adding_Bits.iml" filepath="$PROJECT_DIR$/contest-1/F. Adding Bits/F_Adding_Bits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loop-contest/F. Break Number/F_Break_Number.iml" filepath="$PROJECT_DIR$/loop-contest/F. Break Number/F_Break_Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/F. Digits Summation/F_Digits_Summation.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/F. Digits Summation/F_Digits_Summation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays-contest/F. Front - End/F_Front___End.iml" filepath="$PROJECT_DIR$/arrays-contest/F. Front - End/F_Front___End.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/F. Multiplication table/F_Multiplication_table.iml" filepath="$PROJECT_DIR$/loops/F. Multiplication table/F_Multiplication_table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/F. Reversing/F_Reversing.iml" filepath="$PROJECT_DIR$/arrays/F. Reversing/F_Reversing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/F. Way Too Long Words/F_Way_Too_Long_Words.iml" filepath="$PROJECT_DIR$/Strings/F. Way Too Long Words/F_Way_Too_Long_Words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/div-3-contest/G1. Big Wins! (easy version)/G1_Big_Wins_easy_version.iml" filepath="$PROJECT_DIR$/div-3-contest/G1. Big Wins! (easy version)/G1_Big_Wins_easy_version.iml" />
+      <module fileurl="file://$PROJECT_DIR$/div-3-contest/G2. Big Wins! (hard version)/G2_Big_Wins_hard_version.iml" filepath="$PROJECT_DIR$/div-3-contest/G2. Big Wins! (hard version)/G2_Big_Wins_hard_version.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loop-contest/G. Construct the Sum/G_Construct_the_Sum.iml" filepath="$PROJECT_DIR$/loop-contest/G. Construct the Sum/G_Construct_the_Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/G. Conversion/G_Conversion.iml" filepath="$PROJECT_DIR$/Strings/G. Conversion/G_Conversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays-contest/G. Even Hate Odd/G_Even_Hate_Odd.iml" filepath="$PROJECT_DIR$/arrays-contest/G. Even Hate Odd/G_Even_Hate_Odd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/G. Factorial/G_Factorial.iml" filepath="$PROJECT_DIR$/loops/G. Factorial/G_Factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contest-1/G. Katryoshka/G_Katryoshka.iml" filepath="$PROJECT_DIR$/contest-1/G. Katryoshka/G_Katryoshka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/G. Palindrome Array/G_Palindrome_Array.iml" filepath="$PROJECT_DIR$/arrays/G. Palindrome Array/G_Palindrome_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/G. Summation from 1 to N/G_Summation_from_1_to_N.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/G. Summation from 1 to N/G_Summation_from_1_to_N.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contest-1/H. Data Type Guessing/H_Data_Type_Guessing.iml" filepath="$PROJECT_DIR$/contest-1/H. Data Type Guessing/H_Data_Type_Guessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/H. Good or Bad/H_Good_or_Bad.iml" filepath="$PROJECT_DIR$/Strings/H. Good or Bad/H_Good_or_Bad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/H. One Prime/H_One_Prime.iml" filepath="$PROJECT_DIR$/loops/H. One Prime/H_One_Prime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loop-contest/H. Simple Mod/H_Simple_Mod.iml" filepath="$PROJECT_DIR$/loop-contest/H. Simple Mod/H_Simple_Mod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/H. Sorting/H_Sorting.iml" filepath="$PROJECT_DIR$/arrays/H. Sorting/H_Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/H. Two numbers/H_Two_numbers.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/H. Two numbers/H_Two_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contest-1/I. Lucky Numbers/I_Lucky_Numbers.iml" filepath="$PROJECT_DIR$/contest-1/I. Lucky Numbers/I_Lucky_Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/I. Palindrome/I_Palindrome.iml" filepath="$PROJECT_DIR$/loops/I. Palindrome/I_Palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/I. Smallest Pair/I_Smallest_Pair.iml" filepath="$PROJECT_DIR$/arrays/I. Smallest Pair/I_Smallest_Pair.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/I. Welcome for you with Conditions/I_Welcome_for_you_with_Conditions.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/I. Welcome for you with Conditions/I_Welcome_for_you_with_Conditions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA.iml" filepath="$PROJECT_DIR$/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/J. Count Letters/J_Count_Letters.iml" filepath="$PROJECT_DIR$/Strings/J. Count Letters/J_Count_Letters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/J. Lucky Array/J_Lucky_Array.iml" filepath="$PROJECT_DIR$/arrays/J. Lucky Array/J_Lucky_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/J. Multiples/J_Multiples.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/J. Multiples/J_Multiples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/J. Primes from 1 to n/J_Primes_from_1_to_n.iml" filepath="$PROJECT_DIR$/loops/J. Primes from 1 to n/J_Primes_from_1_to_n.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/K. Divisors/K_Divisors.iml" filepath="$PROJECT_DIR$/loops/K. Divisors/K_Divisors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/K. I Love strings/K_I_Love_strings.iml" filepath="$PROJECT_DIR$/Strings/K. I Love strings/K_I_Love_strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/K. Max and Min/K_Max_and_Min.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/K. Max and Min/K_Max_and_Min.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/K. Sum Digits/K_Sum_Digits.iml" filepath="$PROJECT_DIR$/arrays/K. Sum Digits/K_Sum_Digits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/L. GCD/L_GCD.iml" filepath="$PROJECT_DIR$/loops/L. GCD/L_GCD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/L. Max Subarray/L_Max_Subarray.iml" filepath="$PROJECT_DIR$/arrays/L. Max Subarray/L_Max_Subarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/L. String Functions/L_String_Functions.iml" filepath="$PROJECT_DIR$/Strings/L. String Functions/L_String_Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/L. The Brothers/L_The_Brothers.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/L. The Brothers/L_The_Brothers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/M. Capital or Small or Digit/M_Capital_or_Small_or_Digit.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/M. Capital or Small or Digit/M_Capital_or_Small_or_Digit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/M. Lucky Numbers/M_Lucky_Numbers.iml" filepath="$PROJECT_DIR$/loops/M. Lucky Numbers/M_Lucky_Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/M. Replace MinMax/M_Replace_MinMax.iml" filepath="$PROJECT_DIR$/arrays/M. Replace MinMax/M_Replace_MinMax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/M. Subsequence String/M_Subsequence_String.iml" filepath="$PROJECT_DIR$/Strings/M. Subsequence String/M_Subsequence_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/N. Char/N_Char.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/N. Char/N_Char.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/N. Check Code/N_Check_Code.iml" filepath="$PROJECT_DIR$/arrays/N. Check Code/N_Check_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/N. Max Subsequence/N_Max_Subsequence.iml" filepath="$PROJECT_DIR$/Strings/N. Max Subsequence/N_Max_Subsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/N. Numbers Histogram/N_Numbers_Histogram.iml" filepath="$PROJECT_DIR$/loops/N. Numbers Histogram/N_Numbers_Histogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/O. Calculator/O_Calculator.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/O. Calculator/O_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/O. Fibonacci/O_Fibonacci.iml" filepath="$PROJECT_DIR$/arrays/O. Fibonacci/O_Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/O. Pyramid/O_Pyramid.iml" filepath="$PROJECT_DIR$/loops/O. Pyramid/O_Pyramid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/O. Sort String/O_Sort_String.iml" filepath="$PROJECT_DIR$/Strings/O. Sort String/O_Sort_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/P. Count Words/P_Count_Words.iml" filepath="$PROJECT_DIR$/Strings/P. Count Words/P_Count_Words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/P. First digit !/P_First_digit_.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/P. First digit !/P_First_digit_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/P. Minimize Number/P_Minimize_Number.iml" filepath="$PROJECT_DIR$/arrays/P. Minimize Number/P_Minimize_Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/P. Shape1/P_Shape1.iml" filepath="$PROJECT_DIR$/loops/P. Shape1/P_Shape1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/Q. Coordinates of a Point/Q_Coordinates_of_a_Point.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/Q. Coordinates of a Point/Q_Coordinates_of_a_Point.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/Q. Count Subarrays/Q_Count_Subarrays.iml" filepath="$PROJECT_DIR$/arrays/Q. Count Subarrays/Q_Count_Subarrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/Q. Digits/Q_Digits.iml" filepath="$PROJECT_DIR$/loops/Q. Digits/Q_Digits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Q. Reverse Words/Q_Reverse_Words.iml" filepath="$PROJECT_DIR$/Strings/Q. Reverse Words/Q_Reverse_Words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/R. Age in Days/R_Age_in_Days.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/R. Age in Days/R_Age_in_Days.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/R. Permutation with arrays/R_Permutation_with_arrays.iml" filepath="$PROJECT_DIR$/arrays/R. Permutation with arrays/R_Permutation_with_arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/R. Sequence of Numbers and Sum/R_Sequence_of_Numbers_and_Sum.iml" filepath="$PROJECT_DIR$/loops/R. Sequence of Numbers and Sum/R_Sequence_of_Numbers_and_Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/R. String Score/R_String_Score.iml" filepath="$PROJECT_DIR$/Strings/R. String Score/R_String_Score.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/S. Interval/S_Interval.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/S. Interval/S_Interval.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/S. Max Split/S_Max_Split.iml" filepath="$PROJECT_DIR$/Strings/S. Max Split/S_Max_Split.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/S. Search In Matrix/S_Search_In_Matrix.iml" filepath="$PROJECT_DIR$/arrays/S. Search In Matrix/S_Search_In_Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/S. Sum of Consecutive Odd Numbers/S_Sum_of_Consecutive_Odd_Numbers.iml" filepath="$PROJECT_DIR$/loops/S. Sum of Consecutive Odd Numbers/S_Sum_of_Consecutive_Odd_Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/T. Matrix/T_Matrix.iml" filepath="$PROJECT_DIR$/arrays/T. Matrix/T_Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/T. Shape2/T_Shape2.iml" filepath="$PROJECT_DIR$/loops/T. Shape2/T_Shape2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/T. Sort Numbers/T_Sort_Numbers.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/T. Sort Numbers/T_Sort_Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/T. URL/T_URL.iml" filepath="$PROJECT_DIR$/Strings/T. URL/T_URL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/U. Float or int/U_Float_or_int.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/U. Float or int/U_Float_or_int.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/U. Is B a subsequence of A/U_Is_B_a_subsequence_of_A.iml" filepath="$PROJECT_DIR$/arrays/U. Is B a subsequence of A/U_Is_B_a_subsequence_of_A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/U. New Words/U_New_Words.iml" filepath="$PROJECT_DIR$/Strings/U. New Words/U_New_Words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/U. Some Sums/U_Some_Sums.iml" filepath="$PROJECT_DIR$/loops/U. Some Sums/U_Some_Sums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/V. Comparison/V_Comparison.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/V. Comparison/V_Comparison.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/V. Frequency Array/V_Frequency_Array.iml" filepath="$PROJECT_DIR$/arrays/V. Frequency Array/V_Frequency_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/V. PUM/V_PUM.iml" filepath="$PROJECT_DIR$/loops/V. PUM/V_PUM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/V. Replace Word/V_Replace_Word.iml" filepath="$PROJECT_DIR$/Strings/V. Replace Word/V_Replace_Word.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/W. Encrypt &amp; Decrypt Message/W_Encrypt__Decrypt_Message.iml" filepath="$PROJECT_DIR$/Strings/W. Encrypt &amp; Decrypt Message/W_Encrypt__Decrypt_Message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/W. Mathematical Expression/W_Mathematical_Expression.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/W. Mathematical Expression/W_Mathematical_Expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/W. Mirror Array/W_Mirror_Array.iml" filepath="$PROJECT_DIR$/arrays/W. Mirror Array/W_Mirror_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/W. Shape3/W_Shape3.iml" filepath="$PROJECT_DIR$/loops/W. Shape3/W_Shape3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/X. 8 Neighbors/X_8_Neighbors.iml" filepath="$PROJECT_DIR$/arrays/X. 8 Neighbors/X_8_Neighbors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/X. Comparison/X_Comparison.iml" filepath="$PROJECT_DIR$/Strings/X. Comparison/X_Comparison.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/X. Convert To Decimal 2/X_Convert_To_Decimal_2.iml" filepath="$PROJECT_DIR$/loops/X. Convert To Decimal 2/X_Convert_To_Decimal_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/X. Two intervals/X_Two_intervals.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/X. Two intervals/X_Two_intervals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/Y. Easy Fibonacci/Y_Easy_Fibonacci.iml" filepath="$PROJECT_DIR$/loops/Y. Easy Fibonacci/Y_Easy_Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Y. Min Cost String/Y_Min_Cost_String.iml" filepath="$PROJECT_DIR$/Strings/Y. Min Cost String/Y_Min_Cost_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/Y. Range sum query/Y_Range_sum_query.iml" filepath="$PROJECT_DIR$/arrays/Y. Range sum query/Y_Range_sum_query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/Y. The last 2 digits/Y_The_last_2_digits.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/Y. The last 2 digits/Y_The_last_2_digits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/Z. Binary Search/Z_Binary_Search.iml" filepath="$PROJECT_DIR$/arrays/Z. Binary Search/Z_Binary_Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Z. Clean Code/Z_Clean_Code.iml" filepath="$PROJECT_DIR$/Strings/Z. Clean Code/Z_Clean_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/Z. Hard Compare/Z_Hard_Compare.iml" filepath="$PROJECT_DIR$/Codeforces - Sheet 1 Data type - Conditions/Z. Hard Compare/Z_Hard_Compare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/Z. Three Numbers/Z_Three_Numbers.iml" filepath="$PROJECT_DIR$/loops/Z. Three Numbers/Z_Three_Numbers.iml" />
+    </modules>
+  </component>
+</project>
