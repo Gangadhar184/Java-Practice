@@ -19,7 +19,7 @@ public class MyQueue<T> {
     private Node rear; // points the last element (for enqueue)
     private int size; // keep the track of queue size
 
-    //constructore to initialize empty queue
+    //constructor to initialize empty queue
     public MyQueue() {
         this.front = null;
         this.rear = null;
@@ -39,7 +39,7 @@ public class MyQueue<T> {
         }
         size++;
     }
-    //dequeue: Remove and return element fromthe front of queue
+    //dequeue: Remove and return element from the front of queue
     public T dequeue() {
         //1 queue is empty
         if(front == null){
@@ -110,7 +110,7 @@ public class MyQueue<T> {
         System.out.println("Front element (peek): " + queue.peek());
 
         // Test dequeue operations
-        System.out.println("\nDequeuing elements:");
+        System.out.println("\n De-queuing elements:");
         while (!queue.isEmpty()) {
             System.out.println("Dequeued: " + queue.dequeue());
             System.out.println("Size after dequeue: " + queue.size());
