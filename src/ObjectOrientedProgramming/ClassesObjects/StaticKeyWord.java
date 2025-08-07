@@ -7,7 +7,7 @@ package ObjectOrientedProgramming.ClassesObjects;
  *  static variable -> 1 copy shared by all instances
  *  static methods -> can be called without an object
  *  static blocks -> run once when the class is loaded.
- *  -> They cannot refer to "this" or "super" in anyway
+ *  -> They cannot refer to "this" or "super" in any way
  *
  *  Think in Memory: How java loads classes
  *  - Class is loaded -> static fields and static blocks are initialized
